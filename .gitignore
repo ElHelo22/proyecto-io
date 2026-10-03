@@ -1,0 +1,12 @@
+# Cachés de Python
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Datos temporales
+dat/
+
+pruebas/__pycache__/
+app/__pycache__/
+
+Practica_Integradora_Teoria_de_Grafos_Hector_Quispe.docx
