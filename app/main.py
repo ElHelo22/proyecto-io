@@ -129,7 +129,7 @@ if menu.startswith("1"):
 elif menu.startswith("2"):
     st.subheader("Administrar vertices y aristas")
  
-    tab1, tab2, tab3 = st.tabs(["Vertices", "Aristas", "Cargar CSV"])
+    tab1, tab2, tab3 = st.tabs(["Vertices", "Aristas", " "])
  
     with tab1:
         with st.form("form_vertice"):
@@ -204,6 +204,7 @@ elif menu.startswith("4"):
         st.write("**Niveles:**", resultado["niveles"])
         st.write("**Aristas utilizadas:**", resultado["aristas"])
         st.pyplot(dibujar_grafo(grafo, resaltar_nodos=resultado["orden"], resaltar_aristas=resultado["aristas"]))
+
  
 # ------------------------------------------------------------------
 # 5. Dijkstra

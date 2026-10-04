@@ -2,6 +2,7 @@
 test_algoritmos.py
 Casos de prueba minimos para los algoritmos del sistema.
 Ejecutar con: python -m pytest pruebas/ -v   (desde la raiz del proyecto)
+Nota: esto no se explica en el pdf pero sirvio para detectar errores, probablemente en produccion ya no funcione
 """
  
 import os

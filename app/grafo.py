@@ -64,7 +64,6 @@ class Grafo:
         self.adyacencia.get(origen, {}).pop(destino, None)
         if not self.dirigido:
             self.adyacencia.get(destino, {}).pop(origen, None)
- 
     # ------------------------------------------------------------------
     # Carga desde archivos
     # ------------------------------------------------------------------

@@ -8,11 +8,14 @@ El proyecto permite representar una red de puntos mediante vértices y conexione
 
 ## 👥 Integrantes
 
+* **Apaza Casas Alexix Andrew**
 * **Apaza Mamani Helmer Rudel**
 * **Callizaya Lopez Naeli Daniela**
 * **Chavez Mamani Joel Alexix**
 * **Mamani Arias Karen Belen**
 * **Mamani Quispe Miguel Angel**
+* **Mendoza Paye Cristian Rodrigo**
+* **Quispe Quispe Hector**
 
 ---
 
